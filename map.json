@@ -618,6 +618,14 @@
         {
          "firstgid":3295,
          "source":"tilesets\/full decor tiles.tsx"
+        }, 
+        {
+         "firstgid":3304,
+         "source":"tilesets\/Tileset_16x16_16.tsx"
+        }, 
+        {
+         "firstgid":3346,
+         "source":"tilesets\/Interiors_free_16x16.tsx"
         }],
  "tilewidth":32,
  "type":"map",
