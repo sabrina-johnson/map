@@ -626,6 +626,10 @@
         {
          "firstgid":3346,
          "source":"tilesets\/Interiors_free_16x16.tsx"
+        }, 
+        {
+         "firstgid":3698,
+         "source":"tilesets\/Room_Builder_free_16x16.tsx"
         }],
  "tilewidth":32,
  "type":"map",
